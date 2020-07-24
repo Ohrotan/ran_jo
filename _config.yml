@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
+title: Ran Jo's CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://ohrotan.github.io/ran_jo
+url: https://ohrotan.github.io/ran_jo
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics:
 
 # Build settings
 markdown: kramdown
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Ran Jo
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
+  address: Seoul, Republic of Korea
+  email: ran3jo#gmail.com
   link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: Ohrotan
+  linkedin: 
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -50,36 +50,34 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Soongsil University
+      location: Seoul, Repulibc of Korea
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      major: Computer Science and Engineering
+      started: 2014
+      duration: (2014 - 2020)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Korean
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
-      name: JavaScript
-      percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
       name: Java/Java EE
       percentage: 90%
+    - skill2:
+      name: C
+      percentage: 80%
+    - skill3:
+      name: Python
+      percentage: 70%
+    - skill4:
+      name: PHP, HTML, Javascript
+      percentage: 70%
+    - skill5:
+      name: SQL
+      percentage: 70%
